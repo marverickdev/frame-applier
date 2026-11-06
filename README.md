@@ -54,7 +54,7 @@ frame-applier/
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/<your-username>/frame-applier.git
+git clone https://github.com/marverickdev/frame-applier.git
 cd frame-applier
 ```
 
